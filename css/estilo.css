@@ -2,23 +2,16 @@ body{
     background-image: url(../img/fundinho.webp);
 }
 header{
-    background-color: blueviolet;
 }
 .titulos{
-    background-color: chocolate;
 }
 nav{
-    background-color: darkmagenta;
 }
 main{
-    background-color: darkgreen;
 }
 section{
-    background-color: darkred;
 }
 footer{
-    background-color: crimson;
 }
 h1{
-    color: rgb(255, 4, 4);
 }
