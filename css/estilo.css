@@ -1,19 +1,21 @@
 body{
-    background-color: #ffffff;
+    background-color: aqua;
 }
-h1{
-    color: #3200BA;
-    font-weight: bold;
-font-style: italic;
+header{
+    background-color: blueviolet;
 }
-h2{
-    color: #3200BA;
-font-weight: bold;
-font-style: italic;
+.logo{
+    background-color: chocolate;
 }
-li{
-    color: darkred;
+nav{
+    background-color: darkmagenta;
 }
-title{
-    color: maroon;
+main{
+    background-color: darkgreen;
+}
+section{
+    background-color: darkred;
+}
+footer{
+    background-color: crimson;
 }
