@@ -1,6 +1,6 @@
 body{
     background-image: url(../img/fundinho.webp);
-    background-size:auto  ;
+    background-size:contain  ;
 }
 header{
     padding: 3%;
