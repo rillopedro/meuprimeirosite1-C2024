@@ -1,6 +1,5 @@
 body{
-    background-image: url(../img/fundinho.webp);
-    background-size:contain  ;
+    background-color: darkgray;
 }
 header{
     padding: 3%;
