@@ -1,6 +1,7 @@
 body{
     background-color: darkgray;
-    background-image: url(../img/fumdo.png)
+    background-repeat: no-repeat;
+    background-image: url(../img/SEE.jpg)
 }
 header{
     padding: 3%;
