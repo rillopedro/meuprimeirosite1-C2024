@@ -44,7 +44,7 @@ nav a:hover {
     border-radius: 8px;
 }
 
-.type-description {
+.DescriçãoTipo {
     margin-bottom: 30px;
     padding: 15px;
     background: #eef5ff;
@@ -52,52 +52,43 @@ nav a:hover {
     border-radius: 5px;
 }
 
-.type-description h3 {
+.DescriçãoTipo h3 {
     margin-bottom: 10px;
 }
 
-.type-description p {
+.DescriçãoTipo p {
     margin-bottom: 10px;
 }
 
-.type-table {
+.TabelaTipo {
     margin-bottom: 30px;
     width: 100%;
     border-collapse: collapse;
     text-align: center;
 }
 
-.type-table th, .type-table td {
+.TabelaTipo th, .TabelaTipo td {
     padding: 10px;
     border: 1px solid #ddd;
 }
 
-.type-table th {
+.TabelaTipo th {
     background-color: #2a75bb;
     color: #fff;
 }
 
-.type-table tr:nth-child(even) {
-    background-color: #f9f9f9;
-}
-
-.type-table tr:hover {
+.TabelaTipo tr:hover {
     background-color: #f1f1f1;
 }
 
-.type-image {
+.ImagemTipo {
     text-align: center;
     margin-bottom: 20px;
 }
 
-.type-image img {
+.ImagemTipo img {
     width: 50%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
-}
-
-.type-image img:hover {
-    transform: scale(1.05);
 }

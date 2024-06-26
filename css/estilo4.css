@@ -44,37 +44,32 @@ nav a:hover {
     border-radius: 8px;
 }
 
-.game-list {
+.ListaJogos {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     margin-top: 20px;
 }
 
-.game {
+.Jogo {
     background-color: #f9f9f9;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.game img {
+.Jogo img {
     width: 100%;
     border-radius: 8px;
     margin-bottom: 10px;
-    transition: transform 0.3s ease;
 }
 
-.game img:hover{
-    transform: scale(1.05);
-}
-
-.game h2 {
+.Jogo h2 {
     color: #2a75bb;
     font-size: 1.5em;
     margin-bottom: 10px;
 }
 
-.game p {
+.Jogo p {
     margin-bottom: 10px;
 }
