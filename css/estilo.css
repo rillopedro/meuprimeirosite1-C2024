@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f4f4f9;
@@ -174,6 +175,7 @@ nav a:hover {
     background: #eef5ff;
     border-left: 5px solid #2a75bb;
     border-radius: 5px;
+    padding-top: 60px;
 }
 
 .DescriçãoTipo h3 {
@@ -182,6 +184,7 @@ nav a:hover {
 
 .DescriçãoTipo p {
     margin-bottom: 10px;
+    
 }
 
 .TabelaTipo {
