@@ -359,6 +359,37 @@ nav a:hover {
     display: block;
 }
 
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+form input, form textarea, form select {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+}
+
+form input[type="submit"] {
+    background-color: #2a75bb;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+form input[type="submit"]:hover {
+    background-color: #ffcb05;
+}
+
 html {
     scroll-behavior: smooth;
 }
